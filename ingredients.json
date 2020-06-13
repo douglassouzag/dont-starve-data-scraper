@@ -1,0 +1,2205 @@
+{
+    "author": "Glok",
+    "lastUpdate": "2020-06-13",
+    "lastUpdateTs": "1592081264.7410123",
+    "recipes": [
+        {
+            "name": "Aloe",
+            "link": "/wiki/Aloe",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/66/Aloe.png/revision/latest/scale-to-width-down/48?cb=20181017151522",
+            "health": 8.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Cooked Aloe",
+            "link": "/wiki/Cooked_Aloe",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a8/Cooked_Aloe.png/revision/latest/scale-to-width-down/48?cb=20181017151523",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Asparagus",
+            "link": "/wiki/Asparagus",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/45/Asparagus.png/revision/latest/scale-to-width-down/48?cb=20181017151522",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet",
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Cooked Asparagus",
+            "link": "/wiki/Cooked_Asparagus",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/fe/Cooked_Asparagus.png/revision/latest/scale-to-width-down/48?cb=20181017151523",
+            "health": 3.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet",
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Bean Bugs",
+            "link": "/wiki/Bean_Bugs",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/8d/Bean_Bugs.png/revision/latest/scale-to-width-down/48?cb=20181017151522",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": -10.0,
+            "perish": 40.0,
+            "arrayValues": [
+                {
+                    "nome": "Bug",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Cooked Bean Bugs",
+            "link": "/wiki/Cooked_Bean_Bugs",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/31/Cooked_Bean_Bugs.png/revision/latest/scale-to-width-down/48?cb=20181017151523",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": -5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Bug",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Berries",
+            "link": "/wiki/Berries",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/24/Berries.png/revision/latest/scale-to-width-down/48?cb=20140311161723",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Roasted Berries",
+            "link": "/wiki/Roasted_Berries",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c6/Roasted_Berries.png/revision/latest/scale-to-width-down/48?cb=20121215145255",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Roasted Birchnut",
+            "link": "/wiki/Roasted_Birchnut",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/79/Roasted_Birchnut.png/revision/latest/scale-to-width-down/48?cb=20140314200922",
+            "health": 1.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Roasted Birchnut",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        },
+        {
+            "name": "Butter",
+            "link": "/wiki/Butter",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png/revision/latest/scale-to-width-down/48?cb=20121215201639",
+            "health": 40.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 40.0,
+            "arrayValues": [
+                {
+                    "nome": "Dairy product",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Butterfly Wings",
+            "link": "/wiki/Butterfly_Wings",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/19/Butterfly_Wings.png/revision/latest/scale-to-width-down/48?cb=20121215202033",
+            "health": 8.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Butterfly Wings",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cactus Flesh",
+            "link": "/wiki/Cactus_Flesh",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0e/Cactus_Flesh.png/revision/latest/scale-to-width-down/48?cb=20130414004711",
+            "health": -3.0,
+            "hunger": 12.5,
+            "sanity": -5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        },
+        {
+            "name": "Cooked Cactus Flesh",
+            "link": "/wiki/Cooked_Cactus_Flesh",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3b/Cooked_Cactus_Flesh.png/revision/latest/scale-to-width-down/48?cb=20130414004516",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 15.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        },
+        {
+            "name": "Cactus Flower",
+            "link": "/wiki/Cactus_Flower",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/ab/Cactus_Flower.png/revision/latest/scale-to-width-down/48?cb=20130414004627",
+            "health": 8.0,
+            "hunger": 12.5,
+            "sanity": 5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        },
+        {
+            "name": "Carrot",
+            "link": "/wiki/Carrot",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c3/Carrot.png/revision/latest/scale-to-width-down/48?cb=20130527182010",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Roasted Carrot",
+            "link": "/wiki/Carrot",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/bf/Roasted_Carrot.png/revision/latest/scale-to-width-down/48?cb=20121215213333",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Banana",
+            "link": "/wiki/Banana",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/14/Cave_Banana.png/revision/latest/scale-to-width-down/48?cb=20130605070051",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Banana",
+            "link": "/wiki/Banana",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/ad/Cooked_Cave_Banana.png/revision/latest/scale-to-width-down/48?cb=20130606065259",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Halved Coconut",
+            "link": "/wiki/Coconut",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4b/Halved_Coconut.png/revision/latest/scale-to-width-down/48?cb=20160204233953",
+            "health": 1.0,
+            "hunger": 4.6875,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Roasted Coconut",
+            "link": "/wiki/Coconut",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Roasted_Coconut.png/revision/latest/scale-to-width-down/48?cb=20160204233452",
+            "health": 1.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Coffee Beans",
+            "link": "/wiki/Coffee_Beans",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7b/Coffee_Beans.png/revision/latest/scale-to-width-down/48?cb=20151209220430",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Roasted Coffee Beans",
+            "link": "/wiki/Coffee_Beans",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/55/Cooked_Coffee_Beans.png/revision/latest/scale-to-width-down/48?cb=20151209220425",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": -5.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Corn",
+            "link": "/wiki/Corn",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f8/Corn.png/revision/latest/scale-to-width-down/48?cb=20121215214325",
+            "health": 3.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Popcorn",
+            "link": "/wiki/Corn",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/85/Popcorn.png/revision/latest/scale-to-width-down/48?cb=20121215214435",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Dead Dogfish",
+            "link": "/wiki/Dogfish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/37/Dead_Dogfish.png/revision/latest/scale-to-width-down/48?cb=20151207105449",
+            "health": 1.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Dead Jellyfish",
+            "link": "/wiki/Dead_Jellyfish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7f/Dead_Jellyfish.png/revision/latest/scale-to-width-down/48?cb=20151207140821",
+            "health": 10.0,
+            "hunger": 10.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Monster Foods",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Jellyfish",
+            "link": "/wiki/Dead_Jellyfish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/39/Cooked_Jellyfish.png/revision/latest/scale-to-width-down/48?cb=20151207141920",
+            "health": 10.0,
+            "hunger": 18.75,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Monster Foods",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Dried Jellyfish",
+            "link": "/wiki/Dried_Jellyfish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0a/Dried_Jellyfish.png/revision/latest/scale-to-width-down/48?cb=20151207143126",
+            "health": 10.0,
+            "hunger": 18.75,
+            "sanity": 0.0,
+            "perish": 20.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Monster Foods",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Wobster",
+            "link": "/wiki/Wobster",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png/revision/latest/scale-to-width-down/48?cb=20151207151517",
+            "health": "",
+            "hunger": "",
+            "sanity": "",
+            "perish": "",
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 2.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Doydoy Egg",
+            "link": "/wiki/Doydoy_Egg",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/eb/Doydoy_Egg.png/revision/latest/scale-to-width-down/48?cb=20160115182254",
+            "health": 3.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Eggs",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Fried Doydoy Egg",
+            "link": "/wiki/Fried_Doydoy_Egg",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d0/Fried_Doydoy_Egg.png/revision/latest/scale-to-width-down/48?cb=20160115182321",
+            "health": 0.0,
+            "hunger": 37.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Eggs",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Dragon Fruit",
+            "link": "/wiki/Dragon_Fruit",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/29/Dragon_Fruit.png/revision/latest/scale-to-width-down/48?cb=20121215232310",
+            "health": 3.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Prepared Dragon Fruit",
+            "link": "/wiki/Dragon_Fruit",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3e/Prepared_Dragon_Fruit.png/revision/latest/scale-to-width-down/48?cb=20121215232459",
+            "health": 20.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Drumstick",
+            "link": "/wiki/Drumstick",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/dd/Drumstick.png/revision/latest/scale-to-width-down/48?cb=20121215232637",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Fried Drumstick",
+            "link": "/wiki/Drumstick",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d0/Fried_Drumstick.png/revision/latest/scale-to-width-down/48?cb=20121215232821",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Durian",
+            "link": "/wiki/Durian",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/39/Durian.png/revision/latest/scale-to-width-down/48?cb=20121215235223",
+            "health": -3.0,
+            "hunger": 25.0,
+            "sanity": -5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Monster Foods",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Extra Smelly Durian",
+            "link": "/wiki/Durian",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a4/Extra_Smelly_Durian.png/revision/latest/scale-to-width-down/48?cb=20121215235352",
+            "health": 0.0,
+            "hunger": 25.0,
+            "sanity": -5.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Monster Foods",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Eel",
+            "link": "/wiki/Eel",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/91/Eel.png/revision/latest/scale-to-width-down/48?cb=20130905054857",
+            "health": 3.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Eel",
+            "link": "/wiki/Eel",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d2/Cooked_Eel.png/revision/latest/scale-to-width-down/48?cb=20130925193100",
+            "health": 8.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Electric Milk",
+            "link": "/wiki/Electric_Milk",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/39/Electric_Milk.png/revision/latest/scale-to-width-down/48?cb=20140417151518",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 5.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Dairy product",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        },
+        {
+            "name": "Egg",
+            "link": "/wiki/Egg",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/26/Egg.png/revision/latest/scale-to-width-down/48?cb=20130315214629",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Eggs",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Egg",
+            "link": "/wiki/Egg",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a5/Cooked_Egg.png/revision/latest/scale-to-width-down/48?cb=20130315223155",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Eggs",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Eggplant",
+            "link": "/wiki/Eggplant",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/8f/Eggplant.png/revision/latest/scale-to-width-down/48?cb=20121215235642",
+            "health": 8.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Braised Eggplant",
+            "link": "/wiki/Eggplant",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/35/Braised_Eggplant.png/revision/latest/scale-to-width-down/48?cb=20121215235737",
+            "health": 20.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Fish",
+            "link": "/wiki/Fish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/fb/Fish.png/revision/latest/scale-to-width-down/48?cb=20121216000645",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Fish",
+            "link": "/wiki/Fish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f6/Cooked_Fish.png/revision/latest/scale-to-width-down/48?cb=20121216164119",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Fish Morsel",
+            "link": "/wiki/Fish_Morsel",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/37/Fish_Morsel.png/revision/latest/scale-to-width-down/48?cb=20191117221603",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Fish Morsel",
+            "link": "/wiki/Fish_Morsel",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/20/Cooked_Fish_Morsel.png/revision/latest/scale-to-width-down/48?cb=20151209135156",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Frog Legs",
+            "link": "/wiki/Frog_Legs",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/52/Frog_Legs.png/revision/latest/scale-to-width-down/48?cb=20121216095344",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Frog Legs",
+            "link": "/wiki/Frog_Legs",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Cooked_Frog_Legs.png/revision/latest/scale-to-width-down/48?cb=20121216095503",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Garlic",
+            "link": "/wiki/Garlic",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cc/Garlic.png/revision/latest/scale-to-width-down/48?cb=20180616094659",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": -10.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Roasted Garlic",
+            "link": "/wiki/Garlic",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/50/Roast_Garlic.png/revision/latest/scale-to-width-down/48?cb=20180616094702",
+            "health": 1.0,
+            "hunger": 9.375,
+            "sanity": -5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Lesser Glow Berry",
+            "link": "/wiki/Lesser_Glow_Berry",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/5c/Lesser_Glow_Berry.png/revision/latest/scale-to-width-down/48?cb=20151124061733",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruit",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Gummy Slug",
+            "link": "/wiki/Gummy_Slug",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/69/Gummy_Slug.png/revision/latest/scale-to-width-down/48?cb=20181017151524",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": -10.0,
+            "perish": 40.0,
+            "arrayValues": [
+                {
+                    "nome": "Bug",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Cooked Gummy Slug",
+            "link": "/wiki/Cooked_Gummy_Slug",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/8a/Cooked_Gummy_Slug.png/revision/latest/scale-to-width-down/48?cb=20181017151523",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": -5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Bug",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Honey",
+            "link": "/wiki/Honey",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c6/Honey.png/revision/latest/scale-to-width-down/48?cb=20121216095608",
+            "health": 3.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 40.0,
+            "arrayValues": [
+                {
+                    "nome": "Sweetener",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Ice",
+            "link": "/wiki/Ice",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png/revision/latest/scale-to-width-down/48?cb=20140711022650",
+            "health": 0.5,
+            "hunger": 2.3,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Ice",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        },
+        {
+            "name": "Juicy Berries",
+            "link": "/wiki/Juicy_Berries",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/98/Juicy_Berries.png/revision/latest/scale-to-width-down/48?cb=20160518182151",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 2.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Roasted Juicy Berries",
+            "link": "/wiki/Juicy_Berries",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/e5/Roasted_Juicy_Berries.png/revision/latest/scale-to-width-down/48?cb=20160518181621",
+            "health": 3.0,
+            "hunger": 18.75,
+            "sanity": 0.0,
+            "perish": 1.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Kelp Fronds",
+            "link": "/wiki/Kelp_Fronds",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/26/Kelp_Fronds.png/revision/latest/scale-to-width-down/48?cb=20190517194956",
+            "health": -1.0,
+            "hunger": 9.375,
+            "sanity": -10.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Cooked Kelp Fronds",
+            "link": "/wiki/Kelp_Fronds",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/40/Cooked_Kelp_Fronds.png/revision/latest/scale-to-width-down/48?cb=20190517194954",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": -5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Dried Kelp Fronds",
+            "link": "/wiki/Dried_Kelp_Fronds",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1a/Dried_Kelp_Fronds.png/revision/latest/scale-to-width-down/48?cb=20190517194955",
+            "health": 1.0,
+            "hunger": 9.375,
+            "sanity": 10.0,
+            "perish": 20.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Lichen",
+            "link": "/wiki/Lichen",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/8a/Lichen.png/revision/latest/scale-to-width-down/48?cb=20140119010352",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": -5.0,
+            "perish": 2.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Limpets",
+            "link": "/wiki/Limpets",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/23/Limpets.png/revision/latest/scale-to-width-down/48?cb=20151204161107",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Limpets",
+            "link": "/wiki/Limpets",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/75/Cooked_Limpets.png/revision/latest/scale-to-width-down/48?cb=20151204161113",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Mandrake",
+            "link": "/wiki/Mandrake",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c3/Mandrake.png/revision/latest/scale-to-width-down/48?cb=20121216102341",
+            "health": 60.0,
+            "hunger": 75.0,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Meat",
+            "link": "/wiki/Meat",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/58/Meat.png/revision/latest/scale-to-width-down/48?cb=20121215214111",
+            "health": 1.0,
+            "hunger": 25.0,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Meat",
+            "link": "/wiki/Meat",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cd/Cooked_Meat.png/revision/latest/scale-to-width-down/48?cb=20121215213855",
+            "health": 3.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Jerky",
+            "link": "/wiki/Jerky",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/68/Jerky.png/revision/latest/scale-to-width-down/48?cb=20130314200644",
+            "health": 20.0,
+            "hunger": 25.0,
+            "sanity": 15.0,
+            "perish": 20.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Monster Meat",
+            "link": "/wiki/Monster_Meat",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/81/Monster_Meat.png/revision/latest/scale-to-width-down/48?cb=20121216110700",
+            "health": -20.0,
+            "hunger": 18.75,
+            "sanity": -15.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Monster Foods",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Monster Meat",
+            "link": "/wiki/Monster_Meat",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0a/Cooked_Monster_Meat.png/revision/latest/scale-to-width-down/48?cb=20121216110609",
+            "health": -3.0,
+            "hunger": 18.75,
+            "sanity": -10.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Monster Foods",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Monster Jerky",
+            "link": "/wiki/Monster_Jerky",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3b/Monster_Jerky.png/revision/latest/scale-to-width-down/48?cb=20130314200334",
+            "health": -3.0,
+            "hunger": 18.75,
+            "sanity": -5.0,
+            "perish": 20.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Monster Foods",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Moon Moth Wings",
+            "link": "/wiki/Moon_Moth_Wings",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9e/Moon_Moth_Wings.png/revision/latest/scale-to-width-down/48?cb=20190517195309",
+            "health": 8.0,
+            "hunger": 9.375,
+            "sanity": 15.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Moon Moth Wings",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Morsel",
+            "link": "/wiki/Morsel",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2e/Morsel.png/revision/latest/scale-to-width-down/48?cb=20121216154734",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Morsel",
+            "link": "/wiki/Morsel",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/29/Cooked_Morsel.png/revision/latest/scale-to-width-down/48?cb=20121216161825",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Small Jerky",
+            "link": "/wiki/Small_Jerky",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/20/Small_Jerky.png/revision/latest/scale-to-width-down/48?cb=20130314200934",
+            "health": 8.0,
+            "hunger": 12.5,
+            "sanity": 10.0,
+            "perish": 20.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Mussel",
+            "link": "/wiki/Mussel",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/aa/Mussel.png/revision/latest/scale-to-width-down/48?cb=20151207202855",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -15.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Mussel",
+            "link": "/wiki/Mussel",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cd/Cooked_Mussel.png/revision/latest/scale-to-width-down/48?cb=20151207104536",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Blue Cap",
+            "link": "/wiki/Blue_Cap",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/37/Blue_Cap.png/revision/latest/scale-to-width-down/48?cb=20130315205709",
+            "health": 20.0,
+            "hunger": 12.5,
+            "sanity": -15.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Blue Cap",
+            "link": "/wiki/Blue_Cap",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9a/Cooked_Blue_Cap.png/revision/latest/scale-to-width-down/48?cb=20130420033417",
+            "health": -3.0,
+            "hunger": 0.0,
+            "sanity": 10.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Green Cap",
+            "link": "/wiki/Green_Cap",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/84/Green_Cap.png/revision/latest/scale-to-width-down/48?cb=20130315205718",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -50.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Green Cap",
+            "link": "/wiki/Green_Cap",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b9/Cooked_Green_Cap.png/revision/latest/scale-to-width-down/48?cb=20130420033358",
+            "health": -1.0,
+            "hunger": 0.0,
+            "sanity": 15.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Red Cap",
+            "link": "/wiki/Red_Cap",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0f/Red_Cap.png/revision/latest/scale-to-width-down/48?cb=20130315205658",
+            "health": -20.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Red Cap",
+            "link": "/wiki/Red_Cap",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/5a/Cooked_Red_Cap.png/revision/latest/scale-to-width-down/48?cb=20130420033326",
+            "health": 1.0,
+            "hunger": 0.0,
+            "sanity": -10.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Neon Quattro",
+            "link": "/wiki/Neon_Quattro",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/ff/Neon_Quattro.png/revision/latest/scale-to-width-down/48?cb=20170913220444",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Neon Quattro",
+            "link": "/wiki/Neon_Quattro",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/df/Cooked_Neon_Quattro.png/revision/latest/scale-to-width-down/48?cb=20170913220502",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Onion",
+            "link": "/wiki/Onion",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/51/Onion.png/revision/latest/scale-to-width-down/48?cb=20180616094700",
+            "health": 0.0,
+            "hunger": 9.375,
+            "sanity": -10.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Roasted Onion",
+            "link": "/wiki/Onion",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0f/Roast_Onion.png/revision/latest/scale-to-width-down/48?cb=20180616094703",
+            "health": 1.0,
+            "hunger": 9.375,
+            "sanity": -5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Pepper",
+            "link": "/wiki/Pepper",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/50/Pepper.png/revision/latest/scale-to-width-down/48?cb=20190725220029",
+            "health": -20.0,
+            "hunger": 9.375,
+            "sanity": -15.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Roasted Pepper",
+            "link": "/wiki/Pepper",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7e/Roasted_Pepper.png/revision/latest/scale-to-width-down/48?cb=20190725220122",
+            "health": -3.0,
+            "hunger": 9.375,
+            "sanity": -10.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Pierrot Fish",
+            "link": "/wiki/Pierrot_Fish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/8c/Pierrot_Fish.png/revision/latest/scale-to-width-down/48?cb=20170913220350",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Pierrot Fish",
+            "link": "/wiki/Pierrot_Fish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/5f/Cooked_Pierrot_Fish.png/revision/latest/scale-to-width-down/48?cb=20170913220335",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Pomegranate",
+            "link": "/wiki/Pomegranate",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1b/Pomegranate.png/revision/latest/scale-to-width-down/48?cb=20121216154133",
+            "health": 3.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Sliced Pomegranate",
+            "link": "/wiki/Pomegranate",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a7/Sliced_Pomegranate.png/revision/latest/scale-to-width-down/48?cb=20121216154439",
+            "health": 20.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruits",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Potato",
+            "link": "/wiki/Potato",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c2/Potato.png/revision/latest/scale-to-width-down/48?cb=20180616094702",
+            "health": -3.0,
+            "hunger": 12.5,
+            "sanity": -5.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Roasted Potato",
+            "link": "/wiki/Potato",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2c/Roasted_Potato.png/revision/latest/scale-to-width-down/48?cb=20180616094703",
+            "health": 20.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Pumpkin",
+            "link": "/wiki/Pumpkin",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/64/Pumpkin.png/revision/latest/scale-to-width-down/48?cb=20121216154526",
+            "health": 3.0,
+            "hunger": 37.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Hot Pumpkin",
+            "link": "/wiki/Pumpkin",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/6f/Hot_Pumpkin.png/revision/latest/scale-to-width-down/48?cb=20121216154628",
+            "health": 8.0,
+            "hunger": 37.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Purple Grouper",
+            "link": "/wiki/Purple_Grouper",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/db/Purple_Grouper.png/revision/latest/scale-to-width-down/48?cb=20170913220201",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Purple Grouper",
+            "link": "/wiki/Purple_Grouper",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1e/Cooked_Purple_Grouper.png/revision/latest/scale-to-width-down/48?cb=20170913220214",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Radish",
+            "link": "/wiki/Radish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d5/Radish.png/revision/latest/scale-to-width-down/48?cb=20181016100628",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Cooked Radish",
+            "link": "/wiki/Cooked_Radish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3c/Cooked_Radish.png/revision/latest/scale-to-width-down/48?cb=20181018153550",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Raw Fish",
+            "link": "/wiki/Raw_Fish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Raw_Fish.png/revision/latest/scale-to-width-down/48?cb=20151207003251",
+            "health": 1.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Fish Steak",
+            "link": "/wiki/Fish_Steak",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a1/Fish_Steak.png/revision/latest/scale-to-width-down/48?cb=20151209132901",
+            "health": 20.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Roe",
+            "link": "/wiki/Roe",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/56/Roe.png/revision/latest/scale-to-width-down/48?cb=20170913213742",
+            "health": 1.0,
+            "hunger": 4.6875,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Roe",
+            "link": "/wiki/Roe",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/ff/Cooked_Roe.png/revision/latest/scale-to-width-down/48?cb=20170913220018",
+            "health": 0.0,
+            "hunger": 4.6875,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Royal Jelly",
+            "link": "/wiki/Royal_Jelly",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9f/Royal_Jelly.png/revision/latest/scale-to-width-down/48?cb=20161105175627",
+            "health": 20.0,
+            "hunger": 25.0,
+            "sanity": 15.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Sweetener",
+                    "valor": 3.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Seaweed",
+            "link": "/wiki/Seaweed",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/13/Seaweed.png/revision/latest/scale-to-width-down/48?cb=20151204161031",
+            "health": 1.0,
+            "hunger": 9.375,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Roasted Seaweed",
+            "link": "/wiki/Seaweed",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/fc/Roasted_Seaweed.png/revision/latest/scale-to-width-down/48?cb=20151204161040",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Dried Seaweed",
+            "link": "/wiki/Dried_Seaweed",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a6/Dried_Seaweed.png/revision/latest/scale-to-width-down/48?cb=20151207150359",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 20.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Shark Fin",
+            "link": "/wiki/Shark_Fin",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9b/Shark_Fin.png/revision/latest/scale-to-width-down/48?cb=20151209045516",
+            "health": 20.0,
+            "hunger": 25.0,
+            "sanity": -15.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Ripe Stone Fruit",
+            "link": "/wiki/Stone_Fruit",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/79/Ripe_Stone_Fruit.png/revision/latest/scale-to-width-down/48?cb=20190517195311",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Cooked Stone Fruit",
+            "link": "/wiki/Stone_Fruit",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d0/Cooked_Stone_Fruit.png/revision/latest/scale-to-width-down/48?cb=20190517194954",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 2.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Sweet Potato",
+            "link": "/wiki/Sweet_Potato",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/26/Sweet_Potato.png/revision/latest/scale-to-width-down/48?cb=20151207164318",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Sweet Potato",
+            "link": "/wiki/Sweet_Potato",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/27/Cooked_Sweet_Potato.png/revision/latest/scale-to-width-down/48?cb=20151207164333",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Tallbird Egg",
+            "link": "/wiki/Tallbird_Egg",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/53/Tallbird_Egg.png/revision/latest/scale-to-width-down/48?cb=20121216155027",
+            "health": 3.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayValues": [
+                {
+                    "nome": "Eggs",
+                    "valor": 4.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Fried Tallbird Egg",
+            "link": "/wiki/Tallbird_Egg",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/8b/Fried_Tallbird_Egg.png/revision/latest/scale-to-width-down/48?cb=20121216155155",
+            "health": 0.0,
+            "hunger": 37.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Eggs",
+                    "valor": 4.0
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Toma Root",
+            "link": "/wiki/Toma_Root",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9c/Toma_Root.png/revision/latest/scale-to-width-down/48?cb=20180617164224",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Roasted Toma Root",
+            "link": "/wiki/Toma_Root",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f9/Roast_Toma_Root.png/revision/latest/scale-to-width-down/48?cb=20180616100003",
+            "health": 20.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayValues": [
+                {
+                    "nome": "Vegetables",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Tropical Fish",
+            "link": "/wiki/Tropical_Fish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/24/Tropical_Fish.png/revision/latest/scale-to-width-down/48?cb=20151207103431",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fishes",
+                    "valor": 1.0
+                },
+                {
+                    "nome": "Meats",
+                    "valor": 0.5
+                }
+            ],
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Watermelon",
+            "link": "/wiki/Watermelon",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/06/Watermelon.png/revision/latest/scale-to-width-down/48?cb=20140313015348",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": 5.0,
+            "perish": 8.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruit",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        },
+        {
+            "name": "Grilled Watermelon",
+            "link": "/wiki/Watermelon",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/62/Grilled_Watermelon.png/revision/latest/scale-to-width-down/48?cb=20140421160715",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 7.5,
+            "perish": 3.0,
+            "arrayValues": [
+                {
+                    "nome": "Fruit",
+                    "valor": 1.0
+                }
+            ],
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        }
+    ]
+}

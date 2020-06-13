@@ -1,0 +1,595 @@
+{
+    "author": "Glok",
+    "lastUpdate": "2020-06-13",
+    "lastUpdateTs": "1592081264.7410123",
+    "recipes": [
+        {
+            "name": "Batilisk Wing",
+            "link": "/wiki/Batilisk_Wing",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a8/Batilisk_Wing.png/revision/latest/scale-to-width-down/48?cb=20130519201751",
+            "health": 3.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Batilisk Wing",
+            "link": "/wiki/Cooked_Batilisk_Wing",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d2/Cooked_Batilisk_Wing.png/revision/latest/scale-to-width-down/48?cb=20130519203451",
+            "health": 8.0,
+            "hunger": 18.75,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Bile-Covered Slop",
+            "link": "/wiki/Bile-Covered_Slop",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0d/Bile-Covered_Slop.png/revision/latest/scale-to-width-down/48?cb=20181003141558",
+            "health": -1.0,
+            "hunger": -10.0,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Blooming Tuber",
+            "link": "/wiki/Blooming_Tuber",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9f/Blooming_Tuber.png/revision/latest/scale-to-width-down/48?cb=20181021192032",
+            "health": 10.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 20.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Fried Blooming Tuber",
+            "link": "/wiki/Fried_Blooming_Tuber",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/37/Fried_Blooming_Tuber.png/revision/latest/scale-to-width-down/48?cb=20181021191936",
+            "health": 3.0,
+            "hunger": 18.75,
+            "sanity": 5.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Blubber",
+            "link": "/wiki/Blubber",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/79/Blubber.png/revision/latest/scale-to-width-down/48?cb=20151207002726",
+            "health": 10.0,
+            "hunger": 10.0,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Brainy Matter",
+            "link": "/wiki/Brainy_Matter",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4c/Brainy_Matter.png/revision/latest/scale-to-width-down/48?cb=20151207224352",
+            "health": -10.0,
+            "hunger": 10.0,
+            "sanity": 50.0,
+            "perish": 1.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Bramble Bulb",
+            "link": "/wiki/Bramble_Bulb",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cd/Bramble_Bulb.png/revision/latest/scale-to-width-down/48?cb=20190319113117",
+            "health": 1.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 20.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Clippings",
+            "link": "/wiki/Clippings",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Clippings.png/revision/latest/scale-to-width-down/48?cb=20181017151523",
+            "health": 1.0,
+            "hunger": 4.6875,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Dead Rainbow Jellyfish",
+            "link": "/wiki/Dead_Rainbow_Jellyfish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/46/Dead_Rainbow_Jellyfish.png/revision/latest/scale-to-width-down/48?cb=20170913220944",
+            "health": 10.0,
+            "hunger": 10.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Cooked Rainbow Jellyfish",
+            "link": "/wiki/Dead_Rainbow_Jellyfish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/58/Cooked_Rainbow_Jellyfish.png/revision/latest/scale-to-width-down/48?cb=20170913220931",
+            "health": 10.0,
+            "hunger": 18.75,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Dead Swordfish",
+            "link": "/wiki/Swordfish",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a0/Dead_Swordfish.png/revision/latest/scale-to-width-down/48?cb=20151207153505",
+            "health": 1.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Dead Wobster",
+            "link": "/wiki/Wobster",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/98/Dead_Wobster.png/revision/latest/scale-to-width-down/48?cb=20151207151529",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Delicious Wobster",
+            "link": "/wiki/Wobster",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/6a/Cooked_Wobster.png/revision/latest/scale-to-width-down/48?cb=20151207151606",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Deerclops Eyeball",
+            "link": "/wiki/Deerclops_Eyeball",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/24/Deerclops_Eyeball.png/revision/latest/scale-to-width-down/48?cb=20130406182106",
+            "health": 60.0,
+            "hunger": 75.0,
+            "sanity": -15.0,
+            "perish": "Never",
+            "arrayDlcs": []
+        },
+        {
+            "name": "Dragoon Heart",
+            "link": "/wiki/Dragoon_Heart",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/44/Dragoon_Heart.png/revision/latest/scale-to-width-down/48?cb=20160208003014",
+            "health": 11.0,
+            "hunger": 25.0,
+            "sanity": -10.0,
+            "perish": 10.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Eye of the Tiger Shark",
+            "link": "/wiki/Eye_of_the_Tiger_Shark",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/83/Eye_of_the_Tiger_Shark.png/revision/latest/scale-to-width-down/48?cb=20160218023332",
+            "health": 60.0,
+            "hunger": 75.0,
+            "sanity": -15.0,
+            "perish": "Never",
+            "arrayDlcs": [
+                "Shipwrecked"
+            ]
+        },
+        {
+            "name": "Flytrap Stalk",
+            "link": "/wiki/Flytrap_Stalk",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ed/Flytrap_Stalk.png/revision/latest/scale-to-width-down/48?cb=20181018153551",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Foliage",
+            "link": "/wiki/Foliage",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/21/Foliage.png/revision/latest/scale-to-width-down/48?cb=20130926222841",
+            "health": 1.0,
+            "hunger": 0.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Gears",
+            "link": "/wiki/Gears",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7d/Gears.png/revision/latest/scale-to-width-down/48?cb=20130916211413",
+            "health": 60.0,
+            "hunger": 75.0,
+            "sanity": 50.0,
+            "perish": "Never",
+            "arrayDlcs": []
+        },
+        {
+            "name": "Glommer's Goop",
+            "link": "/wiki/Glommer%27s_Goop",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/ff/Glommer%27s_Goop.png/revision/latest/scale-to-width-down/48?cb=20140319080359",
+            "health": 40.0,
+            "hunger": 9.375,
+            "sanity": -50.0,
+            "perish": "Never",
+            "arrayDlcs": [
+                "Reign of Giants"
+            ]
+        },
+        {
+            "name": "Glow Berry",
+            "link": "/wiki/Glow_Berry",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/dc/Glow_Berry.png/revision/latest/scale-to-width-down/48?cb=20130924231256",
+            "health": 10.0,
+            "hunger": 25.0,
+            "sanity": -10.0,
+            "perish": 10.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Guardian's Horn",
+            "link": "/wiki/Guardian%27s_Horn",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1f/Guardian%27s_Horn.png/revision/latest/scale-to-width-down/48?cb=20130905151238",
+            "health": 60.0,
+            "hunger": 75.0,
+            "sanity": -15.0,
+            "perish": "Never",
+            "arrayDlcs": []
+        },
+        {
+            "name": "Koalefant Trunk",
+            "link": "/wiki/Koalefant_Trunk",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0e/Koalefant_Trunk.png/revision/latest/scale-to-width-down/48?cb=20130129202223",
+            "health": 30.0,
+            "hunger": 37.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Winter Koalefant Trunk",
+            "link": "/wiki/Koalefant_Trunk",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2d/Winter_Koalefant_Trunk.png/revision/latest/scale-to-width-down/48?cb=20130315012952",
+            "health": 30.0,
+            "hunger": 37.5,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Koalefant Trunk Steak",
+            "link": "/wiki/Koalefant_Trunk",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/73/Koalefant_Trunk_Steak.png/revision/latest/scale-to-width-down/48?cb=20130130105844",
+            "health": 40.0,
+            "hunger": 75.0,
+            "sanity": 0.0,
+            "perish": 15.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Leafy Meat",
+            "link": "/wiki/Leafy_Meat",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/e9/Leafy_Meat.png/revision/latest/scale-to-width-down/48?cb=20130606065238",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Leafy Meat",
+            "link": "/wiki/Leafy_Meat",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1b/Cooked_Leafy_Meat.png/revision/latest/scale-to-width-down/48?cb=20130606065238",
+            "health": 1.0,
+            "hunger": 18.75,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Light Bulb",
+            "link": "/wiki/Light_Bulb",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2c/Light_Bulb.png/revision/latest/scale-to-width-down/48?cb=20130520052505",
+            "health": 1.0,
+            "hunger": 0.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Lotus Flower",
+            "link": "/wiki/Lotus_Flower",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0e/Lotus_Flower.png/revision/latest/scale-to-width-down/48?cb=20181018153551",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 5.0,
+            "perish": 10.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Cooked Lotus Root",
+            "link": "/wiki/Cooked_Lotus_Root",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3a/Cooked_Lotus_Root.png/revision/latest/scale-to-width-down/48?cb=20181018153550",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 15.0,
+            "perish": 10.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Lune Tree Blossom",
+            "link": "/wiki/Lune_Tree_Blossom",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/01/Lune_Tree_Blossom.png/revision/latest/scale-to-width-down/48?cb=20190517194957",
+            "health": 1.0,
+            "hunger": 0.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Magic Water",
+            "link": "/wiki/Magic_Water",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c4/Magic_Water.png/revision/latest/scale-to-width-down/48?cb=20181024202903",
+            "health": 300.0,
+            "hunger": 450.0,
+            "sanity": 150.0,
+            "perish": "Never",
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Cooked Mandrake",
+            "link": "/wiki/Cooked_Mandrake",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3e/Cooked_Mandrake.png/revision/latest/scale-to-width-down/48?cb=20121215213753",
+            "health": 100.0,
+            "hunger": 150.0,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayDlcs": []
+        },
+        {
+            "name": "Nectar",
+            "link": "/wiki/Nectar",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/dc/Nectar.png/revision/latest/scale-to-width-down/48?cb=20181017152929",
+            "health": 3.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 40.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Nettle",
+            "link": "/wiki/Nettle",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/40/Nettle.png/revision/latest/scale-to-width-down/48?cb=20181017152929",
+            "health": 10.0,
+            "hunger": 10.0,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Petals",
+            "link": "/wiki/Petals",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d8/Petals.png/revision/latest/scale-to-width-down/48?cb=20121216131625",
+            "health": 1.0,
+            "hunger": 0.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Dark Petals",
+            "link": "/wiki/Dark_Petals",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4d/Dark_Petals.png/revision/latest/scale-to-width-down/48?cb=20130314181500",
+            "health": 0.0,
+            "hunger": 0.0,
+            "sanity": -5.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Phlegm",
+            "link": "/wiki/Phlegm",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/eb/Phlegm.png/revision/latest/scale-to-width-down/48?cb=20141210082822",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -15.0,
+            "perish": "Never",
+            "arrayDlcs": []
+        },
+        {
+            "name": "Poison Dartfrog Legs",
+            "link": "/wiki/Poison_Dartfrog_Legs",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/86/Poison_Dartfrog_Legs.png/revision/latest/scale-to-width-down/48?cb=20181017152930",
+            "health": -3.0,
+            "hunger": 12.5,
+            "sanity": -10.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Cooked Dartfrog Legs",
+            "link": "/wiki/Cooked_Dartfrog_Legs",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/05/Cooked_Dartfrog_Legs.png/revision/latest/scale-to-width-down/48?cb=20181017152928",
+            "health": -1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Rot",
+            "link": "/wiki/Rot",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/66/Rot.png/revision/latest/scale-to-width-down/48?cb=20190301171002",
+            "health": -1.0,
+            "hunger": -10.0,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayDlcs": []
+        },
+        {
+            "name": "Rotten Egg",
+            "link": "/wiki/Rotten_Egg",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/03/Rotten_Egg.png/revision/latest/scale-to-width-down/48?cb=20130314124908",
+            "health": -1.0,
+            "hunger": -10.0,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayDlcs": []
+        },
+        {
+            "name": "Seed Pod",
+            "link": "/wiki/Seed_Pod",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/09/Seed_Pod.png/revision/latest/scale-to-width-down/48?cb=20181017151524",
+            "health": 1.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 20.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Cooked Seed Pod",
+            "link": "/wiki/Cooked_Seed_Pod",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1b/Cooked_Seed_Pod.png/revision/latest/scale-to-width-down/48?cb=20181017151524",
+            "health": 3.0,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Seeds",
+            "link": "/wiki/Seeds",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4b/Seeds.png/revision/latest/scale-to-width-down/48?cb=20121216124929",
+            "health": 0.0,
+            "hunger": 4.6875,
+            "sanity": 0.0,
+            "perish": 40.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Toasted Seeds",
+            "link": "/wiki/Seeds",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d7/Toasted_Seeds.png/revision/latest/scale-to-width-down/48?cb=20121216142844",
+            "health": 1.0,
+            "hunger": 4.6875,
+            "sanity": 0.0,
+            "perish": 10.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Crop Seeds",
+            "link": "/wiki/Crop_Seeds",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/94/Crops.png/revision/latest/scale-to-width-down/48?cb=20131111111044",
+            "health": 0.5,
+            "hunger": 9.375,
+            "sanity": 0.0,
+            "perish": 40.0,
+            "arrayDlcs": []
+        },
+        {
+            "name": "Succulent",
+            "link": "/wiki/Petals#Succulent",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/af/Succulent.png/revision/latest/scale-to-width-down/48?cb=20170203191635",
+            "health": 1.0,
+            "hunger": 0.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Don't Starve Together"
+            ]
+        },
+        {
+            "name": "Hatching Tallbird Egg",
+            "link": "/wiki/Tallbird_Egg",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f6/Hatching_Tallbird_Egg.png/revision/latest/scale-to-width-down/48?cb=20121216155315",
+            "health": 3.0,
+            "hunger": 25.0,
+            "sanity": 0.0,
+            "perish": "Never",
+            "arrayDlcs": []
+        },
+        {
+            "name": "Tuber",
+            "link": "/wiki/Tuber",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7f/Tuber.png/revision/latest/scale-to-width-down/48?cb=20181017151525",
+            "health": 8.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 20.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Fried Tuber",
+            "link": "/wiki/Fried_Tuber",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/08/Fried_Tuber.png/revision/latest/scale-to-width-down/48?cb=20181017151524",
+            "health": 3.0,
+            "hunger": 18.75,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": [
+                "Hamlet"
+            ]
+        },
+        {
+            "name": "Wet Goop",
+            "link": "/wiki/Wet_Goop",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a8/Wet_Goop.png/revision/latest/scale-to-width-down/48?cb=20121216162705",
+            "health": 0.0,
+            "hunger": 0.0,
+            "sanity": 0.0,
+            "perish": 6.0,
+            "arrayDlcs": []
+        }
+    ]
+}
