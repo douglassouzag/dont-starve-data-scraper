@@ -1,2 +1,2 @@
 bs4==1.9.1
-requests==2.8
+requests==2.20.0
