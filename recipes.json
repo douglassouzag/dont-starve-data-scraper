@@ -115,7 +115,7 @@
         {
             "name": "Bacon and Eggs",
             "link": "/wiki/Bacon_and_Eggs",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a6/Bacon_and_Eggs.png/revision/latest/scale-to-width-down/48?cb=20121215143942",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a6/Bacon_and_Eggs.png",
             "health": 20.0,
             "hunger": 75.0,
             "sanity": 5.0,
