@@ -117,7 +117,7 @@ def pegarExemplos(link):
                 
                 ingredient = {
                     'name': td.find('a')['title'],
-                    'img': td.find('a').find('img')['data-src']
+                    'img': td.find('a').find('img')['data-src'].split('/revision/')[0]
                 }
 
                 cont = cont + 1
@@ -150,6 +150,9 @@ def atualizarDadosJSON():
         try:
             link = colunas[0].find('a')
             imagem = link.find('img')['data-src']
+
+            imagem = imagem.split('/revision/')[0]
+
             nome = colunas[1].find('a').text
             acesso = colunas[1].find('a')['href']
         except:

@@ -1,12 +1,12 @@
 {
     "author": "Glok",
-    "lastUpdate": "2020-06-13",
-    "lastUpdateTs": "1592081264.7410123",
+    "lastUpdate": "2020-06-20",
+    "lastUpdateTs": "1592705114.5522728",
     "recipes": [
         {
             "name": "Batilisk Wing",
             "link": "/wiki/Batilisk_Wing",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a8/Batilisk_Wing.png/revision/latest/scale-to-width-down/48?cb=20130519201751",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a8/Batilisk_Wing.png",
             "health": 3.0,
             "hunger": 12.5,
             "sanity": -10.0,
@@ -16,7 +16,7 @@
         {
             "name": "Cooked Batilisk Wing",
             "link": "/wiki/Cooked_Batilisk_Wing",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d2/Cooked_Batilisk_Wing.png/revision/latest/scale-to-width-down/48?cb=20130519203451",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d2/Cooked_Batilisk_Wing.png",
             "health": 8.0,
             "hunger": 18.75,
             "sanity": 0.0,
@@ -26,7 +26,7 @@
         {
             "name": "Bile-Covered Slop",
             "link": "/wiki/Bile-Covered_Slop",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0d/Bile-Covered_Slop.png/revision/latest/scale-to-width-down/48?cb=20181003141558",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0d/Bile-Covered_Slop.png",
             "health": -1.0,
             "hunger": -10.0,
             "sanity": 0.0,
@@ -38,7 +38,7 @@
         {
             "name": "Blooming Tuber",
             "link": "/wiki/Blooming_Tuber",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9f/Blooming_Tuber.png/revision/latest/scale-to-width-down/48?cb=20181021192032",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9f/Blooming_Tuber.png",
             "health": 10.0,
             "hunger": 12.5,
             "sanity": 0.0,
@@ -50,7 +50,7 @@
         {
             "name": "Fried Blooming Tuber",
             "link": "/wiki/Fried_Blooming_Tuber",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/37/Fried_Blooming_Tuber.png/revision/latest/scale-to-width-down/48?cb=20181021191936",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/37/Fried_Blooming_Tuber.png",
             "health": 3.0,
             "hunger": 18.75,
             "sanity": 5.0,
@@ -62,7 +62,7 @@
         {
             "name": "Blubber",
             "link": "/wiki/Blubber",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/79/Blubber.png/revision/latest/scale-to-width-down/48?cb=20151207002726",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/79/Blubber.png",
             "health": 10.0,
             "hunger": 10.0,
             "sanity": 0.0,
@@ -74,7 +74,7 @@
         {
             "name": "Brainy Matter",
             "link": "/wiki/Brainy_Matter",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4c/Brainy_Matter.png/revision/latest/scale-to-width-down/48?cb=20151207224352",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4c/Brainy_Matter.png",
             "health": -10.0,
             "hunger": 10.0,
             "sanity": 50.0,
@@ -86,7 +86,7 @@
         {
             "name": "Bramble Bulb",
             "link": "/wiki/Bramble_Bulb",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cd/Bramble_Bulb.png/revision/latest/scale-to-width-down/48?cb=20190319113117",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cd/Bramble_Bulb.png",
             "health": 1.0,
             "hunger": 9.375,
             "sanity": 0.0,
@@ -98,7 +98,7 @@
         {
             "name": "Clippings",
             "link": "/wiki/Clippings",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Clippings.png/revision/latest/scale-to-width-down/48?cb=20181017151523",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Clippings.png",
             "health": 1.0,
             "hunger": 4.6875,
             "sanity": 0.0,
@@ -110,7 +110,7 @@
         {
             "name": "Dead Rainbow Jellyfish",
             "link": "/wiki/Dead_Rainbow_Jellyfish",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/46/Dead_Rainbow_Jellyfish.png/revision/latest/scale-to-width-down/48?cb=20170913220944",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/46/Dead_Rainbow_Jellyfish.png",
             "health": 10.0,
             "hunger": 10.0,
             "sanity": 0.0,
@@ -122,7 +122,7 @@
         {
             "name": "Cooked Rainbow Jellyfish",
             "link": "/wiki/Dead_Rainbow_Jellyfish",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/58/Cooked_Rainbow_Jellyfish.png/revision/latest/scale-to-width-down/48?cb=20170913220931",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/58/Cooked_Rainbow_Jellyfish.png",
             "health": 10.0,
             "hunger": 18.75,
             "sanity": 0.0,
@@ -134,7 +134,7 @@
         {
             "name": "Dead Swordfish",
             "link": "/wiki/Swordfish",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a0/Dead_Swordfish.png/revision/latest/scale-to-width-down/48?cb=20151207153505",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a0/Dead_Swordfish.png",
             "health": 1.0,
             "hunger": 25.0,
             "sanity": 0.0,
@@ -146,7 +146,7 @@
         {
             "name": "Dead Wobster",
             "link": "/wiki/Wobster",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/98/Dead_Wobster.png/revision/latest/scale-to-width-down/48?cb=20151207151529",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/98/Dead_Wobster.png",
             "health": 1.0,
             "hunger": 12.5,
             "sanity": 0.0,
@@ -158,7 +158,7 @@
         {
             "name": "Delicious Wobster",
             "link": "/wiki/Wobster",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/6a/Cooked_Wobster.png/revision/latest/scale-to-width-down/48?cb=20151207151606",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/6a/Cooked_Wobster.png",
             "health": 1.0,
             "hunger": 12.5,
             "sanity": 0.0,
@@ -170,7 +170,7 @@
         {
             "name": "Deerclops Eyeball",
             "link": "/wiki/Deerclops_Eyeball",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/24/Deerclops_Eyeball.png/revision/latest/scale-to-width-down/48?cb=20130406182106",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/24/Deerclops_Eyeball.png",
             "health": 60.0,
             "hunger": 75.0,
             "sanity": -15.0,
@@ -180,7 +180,7 @@
         {
             "name": "Dragoon Heart",
             "link": "/wiki/Dragoon_Heart",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/44/Dragoon_Heart.png/revision/latest/scale-to-width-down/48?cb=20160208003014",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/44/Dragoon_Heart.png",
             "health": 11.0,
             "hunger": 25.0,
             "sanity": -10.0,
@@ -192,7 +192,7 @@
         {
             "name": "Eye of the Tiger Shark",
             "link": "/wiki/Eye_of_the_Tiger_Shark",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/83/Eye_of_the_Tiger_Shark.png/revision/latest/scale-to-width-down/48?cb=20160218023332",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/83/Eye_of_the_Tiger_Shark.png",
             "health": 60.0,
             "hunger": 75.0,
             "sanity": -15.0,
@@ -204,7 +204,7 @@
         {
             "name": "Flytrap Stalk",
             "link": "/wiki/Flytrap_Stalk",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ed/Flytrap_Stalk.png/revision/latest/scale-to-width-down/48?cb=20181018153551",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ed/Flytrap_Stalk.png",
             "health": 0.0,
             "hunger": 12.5,
             "sanity": -10.0,
@@ -216,7 +216,7 @@
         {
             "name": "Foliage",
             "link": "/wiki/Foliage",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/21/Foliage.png/revision/latest/scale-to-width-down/48?cb=20130926222841",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/21/Foliage.png",
             "health": 1.0,
             "hunger": 0.0,
             "sanity": 0.0,
@@ -226,7 +226,7 @@
         {
             "name": "Gears",
             "link": "/wiki/Gears",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7d/Gears.png/revision/latest/scale-to-width-down/48?cb=20130916211413",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7d/Gears.png",
             "health": 60.0,
             "hunger": 75.0,
             "sanity": 50.0,
@@ -236,7 +236,7 @@
         {
             "name": "Glommer's Goop",
             "link": "/wiki/Glommer%27s_Goop",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/ff/Glommer%27s_Goop.png/revision/latest/scale-to-width-down/48?cb=20140319080359",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/ff/Glommer%27s_Goop.png",
             "health": 40.0,
             "hunger": 9.375,
             "sanity": -50.0,
@@ -248,7 +248,7 @@
         {
             "name": "Glow Berry",
             "link": "/wiki/Glow_Berry",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/dc/Glow_Berry.png/revision/latest/scale-to-width-down/48?cb=20130924231256",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/dc/Glow_Berry.png",
             "health": 10.0,
             "hunger": 25.0,
             "sanity": -10.0,
@@ -258,7 +258,7 @@
         {
             "name": "Guardian's Horn",
             "link": "/wiki/Guardian%27s_Horn",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1f/Guardian%27s_Horn.png/revision/latest/scale-to-width-down/48?cb=20130905151238",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1f/Guardian%27s_Horn.png",
             "health": 60.0,
             "hunger": 75.0,
             "sanity": -15.0,
@@ -268,7 +268,7 @@
         {
             "name": "Koalefant Trunk",
             "link": "/wiki/Koalefant_Trunk",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0e/Koalefant_Trunk.png/revision/latest/scale-to-width-down/48?cb=20130129202223",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0e/Koalefant_Trunk.png",
             "health": 30.0,
             "hunger": 37.5,
             "sanity": 0.0,
@@ -278,7 +278,7 @@
         {
             "name": "Winter Koalefant Trunk",
             "link": "/wiki/Koalefant_Trunk",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2d/Winter_Koalefant_Trunk.png/revision/latest/scale-to-width-down/48?cb=20130315012952",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2d/Winter_Koalefant_Trunk.png",
             "health": 30.0,
             "hunger": 37.5,
             "sanity": 0.0,
@@ -288,7 +288,7 @@
         {
             "name": "Koalefant Trunk Steak",
             "link": "/wiki/Koalefant_Trunk",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/73/Koalefant_Trunk_Steak.png/revision/latest/scale-to-width-down/48?cb=20130130105844",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/73/Koalefant_Trunk_Steak.png",
             "health": 40.0,
             "hunger": 75.0,
             "sanity": 0.0,
@@ -298,7 +298,7 @@
         {
             "name": "Leafy Meat",
             "link": "/wiki/Leafy_Meat",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/e9/Leafy_Meat.png/revision/latest/scale-to-width-down/48?cb=20130606065238",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/e9/Leafy_Meat.png",
             "health": 0.0,
             "hunger": 12.5,
             "sanity": -10.0,
@@ -308,7 +308,7 @@
         {
             "name": "Cooked Leafy Meat",
             "link": "/wiki/Leafy_Meat",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1b/Cooked_Leafy_Meat.png/revision/latest/scale-to-width-down/48?cb=20130606065238",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1b/Cooked_Leafy_Meat.png",
             "health": 1.0,
             "hunger": 18.75,
             "sanity": 0.0,
@@ -318,7 +318,7 @@
         {
             "name": "Light Bulb",
             "link": "/wiki/Light_Bulb",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2c/Light_Bulb.png/revision/latest/scale-to-width-down/48?cb=20130520052505",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2c/Light_Bulb.png",
             "health": 1.0,
             "hunger": 0.0,
             "sanity": 0.0,
@@ -328,7 +328,7 @@
         {
             "name": "Lotus Flower",
             "link": "/wiki/Lotus_Flower",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0e/Lotus_Flower.png/revision/latest/scale-to-width-down/48?cb=20181018153551",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0e/Lotus_Flower.png",
             "health": 1.0,
             "hunger": 12.5,
             "sanity": 5.0,
@@ -340,7 +340,7 @@
         {
             "name": "Cooked Lotus Root",
             "link": "/wiki/Cooked_Lotus_Root",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3a/Cooked_Lotus_Root.png/revision/latest/scale-to-width-down/48?cb=20181018153550",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3a/Cooked_Lotus_Root.png",
             "health": 1.0,
             "hunger": 12.5,
             "sanity": 15.0,
@@ -352,7 +352,7 @@
         {
             "name": "Lune Tree Blossom",
             "link": "/wiki/Lune_Tree_Blossom",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/01/Lune_Tree_Blossom.png/revision/latest/scale-to-width-down/48?cb=20190517194957",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/01/Lune_Tree_Blossom.png",
             "health": 1.0,
             "hunger": 0.0,
             "sanity": 0.0,
@@ -364,7 +364,7 @@
         {
             "name": "Magic Water",
             "link": "/wiki/Magic_Water",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c4/Magic_Water.png/revision/latest/scale-to-width-down/48?cb=20181024202903",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c4/Magic_Water.png",
             "health": 300.0,
             "hunger": 450.0,
             "sanity": 150.0,
@@ -376,7 +376,7 @@
         {
             "name": "Cooked Mandrake",
             "link": "/wiki/Cooked_Mandrake",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3e/Cooked_Mandrake.png/revision/latest/scale-to-width-down/48?cb=20121215213753",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/3e/Cooked_Mandrake.png",
             "health": 100.0,
             "hunger": 150.0,
             "sanity": 0.0,
@@ -386,7 +386,7 @@
         {
             "name": "Nectar",
             "link": "/wiki/Nectar",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/dc/Nectar.png/revision/latest/scale-to-width-down/48?cb=20181017152929",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/dc/Nectar.png",
             "health": 3.0,
             "hunger": 9.375,
             "sanity": 0.0,
@@ -398,7 +398,7 @@
         {
             "name": "Nettle",
             "link": "/wiki/Nettle",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/40/Nettle.png/revision/latest/scale-to-width-down/48?cb=20181017152929",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/40/Nettle.png",
             "health": 10.0,
             "hunger": 10.0,
             "sanity": 0.0,
@@ -410,7 +410,7 @@
         {
             "name": "Petals",
             "link": "/wiki/Petals",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d8/Petals.png/revision/latest/scale-to-width-down/48?cb=20121216131625",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d8/Petals.png",
             "health": 1.0,
             "hunger": 0.0,
             "sanity": 0.0,
@@ -420,7 +420,7 @@
         {
             "name": "Dark Petals",
             "link": "/wiki/Dark_Petals",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4d/Dark_Petals.png/revision/latest/scale-to-width-down/48?cb=20130314181500",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4d/Dark_Petals.png",
             "health": 0.0,
             "hunger": 0.0,
             "sanity": -5.0,
@@ -430,7 +430,7 @@
         {
             "name": "Phlegm",
             "link": "/wiki/Phlegm",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/eb/Phlegm.png/revision/latest/scale-to-width-down/48?cb=20141210082822",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/eb/Phlegm.png",
             "health": 0.0,
             "hunger": 12.5,
             "sanity": -15.0,
@@ -440,7 +440,7 @@
         {
             "name": "Poison Dartfrog Legs",
             "link": "/wiki/Poison_Dartfrog_Legs",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/86/Poison_Dartfrog_Legs.png/revision/latest/scale-to-width-down/48?cb=20181017152930",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/86/Poison_Dartfrog_Legs.png",
             "health": -3.0,
             "hunger": 12.5,
             "sanity": -10.0,
@@ -452,7 +452,7 @@
         {
             "name": "Cooked Dartfrog Legs",
             "link": "/wiki/Cooked_Dartfrog_Legs",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/05/Cooked_Dartfrog_Legs.png/revision/latest/scale-to-width-down/48?cb=20181017152928",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/05/Cooked_Dartfrog_Legs.png",
             "health": -1.0,
             "hunger": 12.5,
             "sanity": 0.0,
@@ -464,7 +464,7 @@
         {
             "name": "Rot",
             "link": "/wiki/Rot",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/66/Rot.png/revision/latest/scale-to-width-down/48?cb=20190301171002",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/66/Rot.png",
             "health": -1.0,
             "hunger": -10.0,
             "sanity": 0.0,
@@ -474,7 +474,7 @@
         {
             "name": "Rotten Egg",
             "link": "/wiki/Rotten_Egg",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/03/Rotten_Egg.png/revision/latest/scale-to-width-down/48?cb=20130314124908",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/03/Rotten_Egg.png",
             "health": -1.0,
             "hunger": -10.0,
             "sanity": 0.0,
@@ -484,7 +484,7 @@
         {
             "name": "Seed Pod",
             "link": "/wiki/Seed_Pod",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/09/Seed_Pod.png/revision/latest/scale-to-width-down/48?cb=20181017151524",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/09/Seed_Pod.png",
             "health": 1.0,
             "hunger": 9.375,
             "sanity": 0.0,
@@ -496,7 +496,7 @@
         {
             "name": "Cooked Seed Pod",
             "link": "/wiki/Cooked_Seed_Pod",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1b/Cooked_Seed_Pod.png/revision/latest/scale-to-width-down/48?cb=20181017151524",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/1b/Cooked_Seed_Pod.png",
             "health": 3.0,
             "hunger": 9.375,
             "sanity": 0.0,
@@ -508,7 +508,7 @@
         {
             "name": "Seeds",
             "link": "/wiki/Seeds",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4b/Seeds.png/revision/latest/scale-to-width-down/48?cb=20121216124929",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4b/Seeds.png",
             "health": 0.0,
             "hunger": 4.6875,
             "sanity": 0.0,
@@ -518,7 +518,7 @@
         {
             "name": "Toasted Seeds",
             "link": "/wiki/Seeds",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d7/Toasted_Seeds.png/revision/latest/scale-to-width-down/48?cb=20121216142844",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/d7/Toasted_Seeds.png",
             "health": 1.0,
             "hunger": 4.6875,
             "sanity": 0.0,
@@ -528,7 +528,7 @@
         {
             "name": "Crop Seeds",
             "link": "/wiki/Crop_Seeds",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/94/Crops.png/revision/latest/scale-to-width-down/48?cb=20131111111044",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/94/Crops.png",
             "health": 0.5,
             "hunger": 9.375,
             "sanity": 0.0,
@@ -538,7 +538,7 @@
         {
             "name": "Succulent",
             "link": "/wiki/Petals#Succulent",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/af/Succulent.png/revision/latest/scale-to-width-down/48?cb=20170203191635",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/af/Succulent.png",
             "health": 1.0,
             "hunger": 0.0,
             "sanity": 0.0,
@@ -550,7 +550,7 @@
         {
             "name": "Hatching Tallbird Egg",
             "link": "/wiki/Tallbird_Egg",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f6/Hatching_Tallbird_Egg.png/revision/latest/scale-to-width-down/48?cb=20121216155315",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f6/Hatching_Tallbird_Egg.png",
             "health": 3.0,
             "hunger": 25.0,
             "sanity": 0.0,
@@ -560,7 +560,7 @@
         {
             "name": "Tuber",
             "link": "/wiki/Tuber",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7f/Tuber.png/revision/latest/scale-to-width-down/48?cb=20181017151525",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/7f/Tuber.png",
             "health": 8.0,
             "hunger": 12.5,
             "sanity": 0.0,
@@ -572,7 +572,7 @@
         {
             "name": "Fried Tuber",
             "link": "/wiki/Fried_Tuber",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/08/Fried_Tuber.png/revision/latest/scale-to-width-down/48?cb=20181017151524",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/08/Fried_Tuber.png",
             "health": 3.0,
             "hunger": 18.75,
             "sanity": 0.0,
@@ -584,7 +584,7 @@
         {
             "name": "Wet Goop",
             "link": "/wiki/Wet_Goop",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a8/Wet_Goop.png/revision/latest/scale-to-width-down/48?cb=20121216162705",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a8/Wet_Goop.png",
             "health": 0.0,
             "hunger": 0.0,
             "sanity": 0.0,
