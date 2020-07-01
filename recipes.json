@@ -1,12 +1,12 @@
 {
     "author": "Glok",
-    "lastUpdate": "2020-07-20",
+    "lastUpdate": "2020-06-20",
     "lastUpdateTs": "1592705114.5522728",
     "recipes": [
         {
             "name": "Asparagazpacho",
             "link": "/wiki/Asparagazpacho",
-            "img": "https://raw.githubusercontent.com/douglassouzag/dont-starve-data-scraper/master/images/foods/tile070.png",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a1/Asparagazpacho.png",
             "health": 3.0,
             "hunger": 25.0,
             "sanity": 10.0,
