@@ -6,7 +6,7 @@
         {
             "name": "Asparagazpacho",
             "link": "/wiki/Asparagazpacho",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a1/Asparagazpacho.png",
+            "img": "https://raw.githubusercontent.com/douglassouzag/dont-starve-data-scraper/master/images/foods/tile070.png",
             "health": 3.0,
             "hunger": 25.0,
             "sanity": 10.0,
