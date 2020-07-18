@@ -138,7 +138,7 @@ def atualizarDadosJSON():
     soup = BeautifulSoup(r.text, 'html.parser')
 
     tabelas = soup.find_all('table')
-    tabela_comida = tabelas[0]
+    tabela_comida = tabelas[4]
 
     arrayComestiveis = []
     arrayIngredientes = []
@@ -202,7 +202,7 @@ def atualizarDadosJSON():
             arrayComestiveis.append(Comestivel(nome,acesso,imagem,health,hunger,sanity,perish,arrayDlcs))
         else:
             arrayIngredientes.append(Ingrediente(nome,acesso,imagem,health,hunger,sanity,perish,arrayValues,arrayDlcs))
-            
+    
     arrayReceitasJSON = []
     arrayIngredientesJSON = []
     arrayComestiveisJSON = []
