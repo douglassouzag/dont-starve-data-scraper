@@ -1,7 +1,7 @@
 {
     "author": "Glok",
-    "lastUpdate": "2020-06-20",
-    "lastUpdateTs": "1592705114.5522728",
+    "lastUpdate": "2020-07-18",
+    "lastUpdateTs": "1595095533.039926",
     "recipes": [
         {
             "name": "Asparagazpacho",
@@ -474,6 +474,113 @@
                         {
                             "name": "Bone Shards",
                             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Bone_Shards.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Barnacle Linguine",
+            "link": "/wiki/Barnacle_Linguine",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Barnacle_Linguine.png",
+            "health": 10.0,
+            "hunger": 75.0,
+            "sanity": 20.0,
+            "perish": 6.0,
+            "arrayDlcs": [],
+            "examples": [
+                {
+                    "recipe": [
+                        {
+                            "name": "Barnacle",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/af/Barnacle.png"
+                        },
+                        {
+                            "name": "Barnacle",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/af/Barnacle.png"
+                        },
+                        {
+                            "name": "Vegetables",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cb/Vegetables.png"
+                        },
+                        {
+                            "name": "Vegetables",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cb/Vegetables.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Barnacle Nigiri",
+            "link": "/wiki/Barnacle_Nigiri",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/47/Barnacle_Nigiri.png",
+            "health": 40.0,
+            "hunger": 37.5,
+            "sanity": 5.0,
+            "perish": 10.0,
+            "arrayDlcs": [],
+            "examples": [
+                {
+                    "recipe": [
+                        {
+                            "name": "Barnacle",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/af/Barnacle.png"
+                        },
+                        {
+                            "name": "Kelp Frond",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/8d/Kelp_Frond.png"
+                        },
+                        {
+                            "name": "Eggs",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a3/Eggs.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Barnacle Pita",
+            "link": "/wiki/Barnacle_Pita",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/60/Barnacle_Pita.png",
+            "health": 20.0,
+            "hunger": 37.5,
+            "sanity": 5.0,
+            "perish": 15.0,
+            "arrayDlcs": [],
+            "examples": []
+        },
+        {
+            "name": "Beefy Greens",
+            "link": "/wiki/Beefy_Greens",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4f/Beefy_Greens.png",
+            "health": 40.0,
+            "hunger": 75.0,
+            "sanity": 5.0,
+            "perish": 6.0,
+            "arrayDlcs": [],
+            "examples": [
+                {
+                    "recipe": [
+                        {
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
+                        },
+                        {
+                            "name": "Vegetables",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cb/Vegetables.png"
+                        },
+                        {
+                            "name": "Vegetables",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cb/Vegetables.png"
+                        },
+                        {
+                            "name": "Vegetables",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/cb/Vegetables.png"
                         }
                     ]
                 }
@@ -3556,26 +3663,6 @@
                 {
                     "recipe": [
                         {
-                            "name": "Meats",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Meats.png"
-                        },
-                        {
-                            "name": "Meats",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Meats.png"
-                        },
-                        {
-                            "name": "Honey",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c6/Honey.png"
-                        },
-                        {
-                            "name": "Filler",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
                             "name": "Normal Meats",
                             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b1/Normal_Meats.png"
                         },
@@ -4133,7 +4220,7 @@
             "name": "Jellybeans",
             "link": "/wiki/Jellybeans",
             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/d/db/Jellybeans.png",
-            "health": "122",
+            "health": "122(over 2 minutes)",
             "hunger": 0.0,
             "sanity": 5.0,
             "perish": "Never",
@@ -4338,6 +4425,78 @@
             ]
         },
         {
+            "name": "Jelly Salad",
+            "link": "/wiki/Jelly_Salad",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ed/Jelly_Salad.png",
+            "health": 0.0,
+            "hunger": 37.5,
+            "sanity": 50.0,
+            "perish": 6.0,
+            "arrayDlcs": [],
+            "examples": [
+                {
+                    "recipe": [
+                        {
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
+                        },
+                        {
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
+                        },
+                        {
+                            "name": "Sweetener",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/ba/Sweetener.png"
+                        },
+                        {
+                            "name": "Sweetener",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/ba/Sweetener.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
+                        },
+                        {
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
+                        },
+                        {
+                            "name": "Honey",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c6/Honey.png"
+                        },
+                        {
+                            "name": "Honey",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/c/c6/Honey.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
+                        },
+                        {
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
+                        },
+                        {
+                            "name": "Royal Jelly",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/9f/Royal_Jelly.png"
+                        },
+                        {
+                            "name": "Twigs",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "name": "Kabobs",
             "link": "/wiki/Kabobs",
             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/46/Kabobs.png",
@@ -4490,46 +4649,24 @@
             ]
         },
         {
-            "name": "Lobster Bisque",
-            "link": "/wiki/Lobster_Bisque",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0a/Lobster_Bisque.png",
-            "health": 60.0,
-            "hunger": 25.0,
-            "sanity": 10.0,
-            "perish": 10.0,
-            "arrayDlcs": [
-                "Shipwrecked"
-            ],
+            "name": "Leafy Meatloaf",
+            "link": "/wiki/Leafy_Meatloaf",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/a/a3/Leafy_Meatloaf.png",
+            "health": 8.0,
+            "hunger": 37.5,
+            "sanity": 5.0,
+            "perish": 20.0,
+            "arrayDlcs": [],
             "examples": [
                 {
                     "recipe": [
                         {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
                         },
                         {
-                            "name": "Ice",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png"
-                        },
-                        {
-                            "name": "Filler",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
-                        },
-                        {
-                            "name": "Filler",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster (DST)",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/92/Wobster_%28DST%29.png"
-                        },
-                        {
-                            "name": "Ice",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png"
+                            "name": "Leafy Meats",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2b/Leafy_Meats.png"
                         },
                         {
                             "name": "Filler",
@@ -4538,200 +4675,6 @@
                         {
                             "name": "Filler",
                             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
-                        },
-                        {
-                            "name": "Ice",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png"
-                        },
-                        {
-                            "name": "Twigs",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
-                        },
-                        {
-                            "name": "Twigs",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
-                        },
-                        {
-                            "name": "Ice",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png"
-                        },
-                        {
-                            "name": "Monster Meat",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/81/Monster_Meat.png"
-                        },
-                        {
-                            "name": "Monster Meat",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/81/Monster_Meat.png"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Lobster Dinner",
-            "link": "/wiki/Lobster_Dinner",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/49/Lobster_Dinner.png",
-            "health": 60.0,
-            "hunger": 25.0,
-            "sanity": 50.0,
-            "perish": 10.0,
-            "arrayDlcs": [
-                "Shipwrecked"
-            ],
-            "examples": [
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
-                        },
-                        {
-                            "name": "Butter",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
-                        },
-                        {
-                            "name": "Filler",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
-                        },
-                        {
-                            "name": "Filler",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster (DST)",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/92/Wobster_%28DST%29.png"
-                        },
-                        {
-                            "name": "Butter",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
-                        },
-                        {
-                            "name": "Filler",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
-                        },
-                        {
-                            "name": "Filler",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
-                        },
-                        {
-                            "name": "Butter",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
-                        },
-                        {
-                            "name": "Berry",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ed/Berry.png"
-                        },
-                        {
-                            "name": "Seaweed",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/13/Seaweed.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
-                        },
-                        {
-                            "name": "Butter",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
-                        },
-                        {
-                            "name": "Halved Coconut",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4b/Halved_Coconut.png"
-                        },
-                        {
-                            "name": "Twigs",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
-                        },
-                        {
-                            "name": "Butter",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
-                        },
-                        {
-                            "name": "Twigs",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
-                        },
-                        {
-                            "name": "Twigs",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
-                        },
-                        {
-                            "name": "Butter",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
-                        },
-                        {
-                            "name": "Sweetener",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/ba/Sweetener.png"
-                        },
-                        {
-                            "name": "Sweetener",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/ba/Sweetener.png"
-                        }
-                    ]
-                },
-                {
-                    "recipe": [
-                        {
-                            "name": "Wobster",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
-                        },
-                        {
-                            "name": "Butter",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
-                        },
-                        {
-                            "name": "Dried Jellyfish",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0a/Dried_Jellyfish.png"
-                        },
-                        {
-                            "name": "Dried Jellyfish",
-                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0a/Dried_Jellyfish.png"
                         }
                     ]
                 }
@@ -5603,9 +5546,9 @@
             "name": "Monster Tartare",
             "link": "/wiki/Monster_Tartare",
             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/2d/Monster_Tartare.png",
-            "health": "3-20",
-            "hunger": "37.562.5",
-            "sanity": "10-20",
+            "health": "3-20 ()",
+            "hunger": "37.562.5 ()",
+            "sanity": "10-20 ()",
             "perish": 10.0,
             "arrayDlcs": [
                 "Shipwrecked",
@@ -7803,6 +7746,17 @@
             ]
         },
         {
+            "name": "Stuffed Fish Heads",
+            "link": "/wiki/Stuffed_Fish_Heads",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/71/Stuffed_Fish_Heads.png",
+            "health": 20.0,
+            "hunger": 75.0,
+            "sanity": 0.0,
+            "perish": 3.0,
+            "arrayDlcs": [],
+            "examples": []
+        },
+        {
             "name": "Stuffed Pepper Poppers",
             "link": "/wiki/Stuffed_Pepper_Poppers",
             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/5/54/Stuffed_Pepper_Poppers.png",
@@ -8884,6 +8838,17 @@
             ]
         },
         {
+            "name": "Veggie Burger",
+            "link": "/wiki/Veggie_Burger",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/2/25/Veggie_Burger.png",
+            "health": 30.0,
+            "hunger": 37.5,
+            "sanity": 33.0,
+            "perish": 6.0,
+            "arrayDlcs": [],
+            "examples": []
+        },
+        {
             "name": "Volt Goat Chaud-Froid",
             "link": "/wiki/Volt_Goat_Chaud-Froid",
             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/6/60/Volt_Goat_Chaud-Froid.png",
@@ -9064,6 +9029,254 @@
                         {
                             "name": "Twigs",
                             "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wobster Bisque",
+            "link": "/wiki/Wobster_Bisque",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b3/Wobster_Bisque.png",
+            "health": 60.0,
+            "hunger": 25.0,
+            "sanity": 10.0,
+            "perish": 10.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ],
+            "examples": [
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Ice",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster (DST)",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/92/Wobster_%28DST%29.png"
+                        },
+                        {
+                            "name": "Ice",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Ice",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png"
+                        },
+                        {
+                            "name": "Twigs",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
+                        },
+                        {
+                            "name": "Twigs",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Ice",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/77/Ice.png"
+                        },
+                        {
+                            "name": "Monster Meat",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/81/Monster_Meat.png"
+                        },
+                        {
+                            "name": "Monster Meat",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/8/81/Monster_Meat.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wobster Dinner",
+            "link": "/wiki/Wobster_Dinner",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/3/32/Wobster_Dinner.png",
+            "health": 60.0,
+            "hunger": 25.0,
+            "sanity": 50.0,
+            "perish": 10.0,
+            "arrayDlcs": [
+                "Shipwrecked"
+            ],
+            "examples": [
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Butter",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster (DST)",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/92/Wobster_%28DST%29.png"
+                        },
+                        {
+                            "name": "Butter",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        },
+                        {
+                            "name": "Filler",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ee/Filler.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Butter",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
+                        },
+                        {
+                            "name": "Berry",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/ed/Berry.png"
+                        },
+                        {
+                            "name": "Seaweed",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/1/13/Seaweed.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Butter",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
+                        },
+                        {
+                            "name": "Halved Coconut",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/4/4b/Halved_Coconut.png"
+                        },
+                        {
+                            "name": "Twigs",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Butter",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
+                        },
+                        {
+                            "name": "Twigs",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
+                        },
+                        {
+                            "name": "Twigs",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/7/76/Twigs.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Butter",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
+                        },
+                        {
+                            "name": "Sweetener",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/ba/Sweetener.png"
+                        },
+                        {
+                            "name": "Sweetener",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/ba/Sweetener.png"
+                        }
+                    ]
+                },
+                {
+                    "recipe": [
+                        {
+                            "name": "Wobster",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png"
+                        },
+                        {
+                            "name": "Butter",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/f/f1/Butter.png"
+                        },
+                        {
+                            "name": "Dried Jellyfish",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0a/Dried_Jellyfish.png"
+                        },
+                        {
+                            "name": "Dried Jellyfish",
+                            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/0/0a/Dried_Jellyfish.png"
                         }
                     ]
                 }

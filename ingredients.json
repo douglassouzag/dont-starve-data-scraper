@@ -1,7 +1,7 @@
 {
     "author": "Glok",
-    "lastUpdate": "2020-06-20",
-    "lastUpdateTs": "1592705114.5522728",
+    "lastUpdate": "2020-07-18",
+    "lastUpdateTs": "1595095533.039926",
     "recipes": [
         {
             "name": "Aloe",
@@ -76,6 +76,46 @@
                 "Hamlet",
                 "Don't Starve Together"
             ]
+        },
+        {
+            "name": "Barnacles",
+            "link": "/wiki/Barnacles",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/9/92/Barnacles.png",
+            "health": 0.0,
+            "hunger": 12.5,
+            "sanity": -5.0,
+            "perish": 6.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.25
+                },
+                {
+                    "nome": "Fishes",
+                    "valor": 0.25
+                }
+            ],
+            "arrayDlcs": []
+        },
+        {
+            "name": "Cooked Barnacles",
+            "link": "/wiki/Cooked_Barnacles",
+            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/e/e5/Cooked_Barnacles.png",
+            "health": 1.0,
+            "hunger": 12.5,
+            "sanity": 0.0,
+            "perish": 15.0,
+            "arrayValues": [
+                {
+                    "nome": "Meats",
+                    "valor": 0.25
+                },
+                {
+                    "nome": "Fishes",
+                    "valor": 0.25
+                }
+            ],
+            "arrayDlcs": []
         },
         {
             "name": "Bean Bugs",
@@ -499,24 +539,6 @@
                 {
                     "nome": "Monster Foods",
                     "valor": 1.0
-                }
-            ],
-            "arrayDlcs": [
-                "Shipwrecked"
-            ]
-        },
-        {
-            "name": "Wobster",
-            "link": "/wiki/Wobster",
-            "img": "https://vignette.wikia.nocookie.net/dont-starve-game/images/b/b8/Wobster.png",
-            "health": "",
-            "hunger": "",
-            "sanity": "",
-            "perish": "",
-            "arrayValues": [
-                {
-                    "nome": "Fishes",
-                    "valor": 2.0
                 }
             ],
             "arrayDlcs": [
